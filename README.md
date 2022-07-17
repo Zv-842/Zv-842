@@ -5,5 +5,5 @@ I primarily code in Python, but dabble in SPSS. For databases I use SQL, for das
  
 📫 How to reach me: https://www.linkedin.com/in/olqa-z-0b7b09132/ or olqa.zvereva01@gmail.com 
 
-
+My Resume https://github.com/Zv-842/Zv-842/blob/main/Olqa_Zvereva_CV.pdf
 
